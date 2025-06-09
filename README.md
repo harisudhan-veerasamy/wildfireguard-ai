@@ -14,7 +14,6 @@ WildfireGuard AI is a lightweight, real-time forest fire detection system powere
 - Provide a cost-effective, deployable solution for wildfire-prone areas  
 
 ---
-
 ## Features
 
 - AI-powered fire vs. non-fire image classification  
